@@ -1,7 +1,0 @@
-# Welcome
-
-This is my awesome documentation.
-
-## Installation
-
-Here is how to install it.
